@@ -3,7 +3,7 @@ Summary(pl):	FakeConnect jest aplikacj± s³u¿±c± testowaniu sieci
 Name:		fakeconnect
 Version:	1.2.1
 Release:	1
-License:	GPL v2
+License:	GPL
 Group:		Networking/Utilities
 Source0:	http://www.hostname.org/fake_connect/%{name}-%{version}.tar.gz
 # Source0-md5:	55220ebadef5f541d705b72fe222b5b1
