@@ -1,5 +1,5 @@
 Summary:	FakeConnect is a application/network "stress-test" program
-Summary(pl.UTF-8):   FakeConnect jest aplikacją służącą testowaniu sieci
+Summary(pl.UTF-8):	FakeConnect jest aplikacją służącą testowaniu sieci
 Name:		fakeconnect
 Version:	1.2.1
 Release:	1
