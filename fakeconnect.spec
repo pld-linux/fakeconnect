@@ -1,5 +1,5 @@
 Summary:	FakeConnect is a application/network "stress-test" program
-Summary(pl):	FakeConnect jest aplikacj± s³u¿±c± testowaniu sieci
+Summary(pl.UTF-8):   FakeConnect jest aplikacjÄ… sÅ‚uÅ¼Ä…cÄ… testowaniu sieci
 Name:		fakeconnect
 Version:	1.2.1
 Release:	1
@@ -15,10 +15,10 @@ FakeConnect is a application/network "stress-test" program. It can
 simulate a real TCP connection (with SYN, ACK, and ACK_SEQ), opening
 up to 65000 connections without overloading the local machine.
 
-%description -l pl
-FakeConnect jest aplikacj± s³u¿±c± do testowania sieci. Mo¿e symulowaæ
-prawdziwe po³±czenia TCP (z SYN, ACK i ACK_SEQ), otwiera do 65000
-po³±czeñ bez przeci±¿ania lokalnej maszyny.
+%description -l pl.UTF-8
+FakeConnect jest aplikacjÄ… sÅ‚uÅ¼Ä…cÄ… do testowania sieci. MoÅ¼e symulowaÄ‡
+prawdziwe poÅ‚Ä…czenia TCP (z SYN, ACK i ACK_SEQ), otwiera do 65000
+poÅ‚Ä…czeÅ„ bez przeciÄ…Å¼ania lokalnej maszyny.
 
 %prep
 %setup -q
